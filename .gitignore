@@ -1,3 +1,4 @@
 dontcommit/
-.idea/
-
+.idea/aws-go-cookbooks.iml
+.idea/modules/xml
+.idea/workspace.xml
